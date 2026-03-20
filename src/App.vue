@@ -2,8 +2,8 @@
   <div class="site-shell">
     <header class="site-header">
       <div class="container header-inner">
-        <a href="#top" class="brand">Kairos AI</a>
-        <a href="mailto:hello@kairos.ai" class="nav-cta">Book Demo</a>
+        <a href="#top" class="brand">Victora AI</a>
+        <a href="mailto:hello@victora.ai" class="nav-cta">Book Demo</a>
       </div>
     </header>
 
@@ -17,16 +17,16 @@
               <span>Start building from signal.</span>
             </h1>
             <p class="lede">
-              Kairos helps performance teams turn customer insight, competitor patterns,
+              Victora helps performance teams turn customer insight, competitor patterns,
               and product intelligence into stronger creative bets.
             </p>
             <div class="hero-actions">
-              <a href="mailto:hello@kairos.ai" class="btn btn-primary">Book Demo</a>
+              <a href="mailto:hello@victora.ai" class="btn btn-primary">Book Demo</a>
               <a href="#workflow" class="btn btn-secondary">See the Workflow</a>
             </div>
           </div>
 
-          <div class="hero-visual" aria-label="Kairos pipeline concept board">
+          <div class="hero-visual" aria-label="Victora pipeline concept board">
             <article class="signal-card reddit-card">
               <p class="card-label">Reddit • r/SkincareAddiction</p>
               <p class="card-copy">“Love the texture but the pump broke after 2 days...”</p>
@@ -55,7 +55,7 @@
             </article>
 
             <div class="pipeline-core">
-              <p class="core-kicker">Kairos Pipeline</p>
+              <p class="core-kicker">Victora Pipeline</p>
               <h2>Unified Concept Board</h2>
             </div>
           </div>
@@ -85,7 +85,7 @@
               lives across disconnected tools.
             </p>
             <p class="body-copy strong">That’s how teams end up guessing what to make.</p>
-            <p class="body-copy accent">Kairos turns that mess into one system.</p>
+            <p class="body-copy accent">Victora turns that mess into one system.</p>
           </div>
         </div>
       </section>
@@ -93,10 +93,10 @@
       <section id="workflow" class="section workflow-section">
         <div class="container">
           <div class="section-heading narrow">
-            <p class="eyebrow">The Kairos pipeline</p>
-            <h2>How Kairos turns signal into creative direction.</h2>
+            <p class="eyebrow">The Victora pipeline</p>
+            <h2>How Victora turns signal into creative direction.</h2>
             <p>
-              Kairos brings research, analysis, strategy, and creative production into one workflow —
+              Victora brings research, analysis, strategy, and creative production into one workflow —
               so your team can make better decisions before production starts.
             </p>
           </div>
@@ -154,11 +154,11 @@
       <section class="section why-section">
         <div class="container why-grid">
           <div>
-            <p class="eyebrow">Why Kairos</p>
+            <p class="eyebrow">Why Victora</p>
             <h2>Winning creative starts upstream.</h2>
             <p class="body-copy">
               Most tools start at the generation layer, assuming you already know what to make.
-              Kairos starts with evidence — what customers want, what competitors are proving,
+              Victora starts with evidence — what customers want, what competitors are proving,
               and what the market is already telling you.
             </p>
             <p class="body-copy">
@@ -194,7 +194,7 @@
             <p class="eyebrow">Creative studio</p>
             <h2>Where better inputs become creative output.</h2>
             <p class="body-copy">
-              Kairos doesn’t stop at insight. It turns research into scripts, storyboards,
+              Victora doesn’t stop at insight. It turns research into scripts, storyboards,
               scenes, and creative assets your team can actually use.
             </p>
             <p class="body-copy">So insight doesn’t die in a doc — it moves into production.</p>
@@ -243,7 +243,7 @@
             <p class="eyebrow">Operators</p>
             <h2>Built for repeatable execution.</h2>
             <p class="body-copy">
-              Better outcomes come from repeatable systems, not isolated guesses. Kairos is built for teams
+              Better outcomes come from repeatable systems, not isolated guesses. Victora is built for teams
               that need visible runs, structured workflows, and a better way to move from research to production.
             </p>
             <p class="body-copy">Not prompt roulette. Not scattered docs. A system your team can reuse, refine, and scale.</p>
@@ -273,11 +273,11 @@
         <div class="container cta-box">
           <h2>Build a repeatable ad pipeline, not a pile of prompts.</h2>
           <p>
-            Stop guessing what to make. Use Kairos to turn fragmented signal into creative direction,
+            Stop guessing what to make. Use Victora to turn fragmented signal into creative direction,
             production output, and a stronger shot at winning.
           </p>
           <div class="hero-actions centered">
-            <a href="mailto:hello@kairos.ai" class="btn btn-primary">Book Demo</a>
+            <a href="mailto:hello@victora.ai" class="btn btn-primary">Book Demo</a>
             <a href="#workflow" class="btn btn-secondary">See the Workflow</a>
           </div>
         </div>
@@ -286,8 +286,8 @@
 
     <footer class="site-footer">
       <div class="container footer-inner">
-        <a href="#top" class="brand">Kairos AI</a>
-        <p>© 2026 Kairos. All rights reserved.</p>
+        <a href="#top" class="brand">Victora AI</a>
+        <p>© 2026 Victora. All rights reserved.</p>
       </div>
     </footer>
   </div>
