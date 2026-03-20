@@ -2,7 +2,7 @@
   <div class="site-shell">
     <header class="site-header">
       <div class="container header-inner">
-        <a href="#top" class="brand">Victora AI</a>
+        <a href="#top" class="brand">Victora</a>
         <a href="mailto:hello@victora.ai" class="nav-cta">Book Demo</a>
       </div>
     </header>
@@ -286,7 +286,7 @@
 
     <footer class="site-footer">
       <div class="container footer-inner">
-        <a href="#top" class="brand">Victora AI</a>
+        <a href="#top" class="brand">Victora</a>
         <p>© 2026 Victora. All rights reserved.</p>
       </div>
     </footer>

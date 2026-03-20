@@ -1,6 +1,6 @@
 # Victora Site
 
-Site-only frontend for the Victora AI landing page.
+Site-only frontend for the Victora landing page.
 
 ## Scripts
 
